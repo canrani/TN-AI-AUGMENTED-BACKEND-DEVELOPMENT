@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "muf241r9lwo79",
+      "createdAt": "2026-09-24T04:53:40.965Z",
+      "updatedAt": "2026-09-24T04:53:40.965Z",
+      "name": "sandhiya",
+      "email": "p.sandhiya0404@gmail.com",
+      "password": "$2a$10$b3N7VwkzBdI.h9RdYVROy..WnXbsxIZHeeMU203x/hlbccNmI2p8W",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sandhiya",
+      "studyGoals": "Ace exams and build solid understanding",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-24T04:53:40.965Z"
+    },
+    {
+      "id": "muglu0lg4umje",
+      "createdAt": "2026-09-25T06:53:31.401Z",
+      "updatedAt": "2026-09-25T07:13:37.754Z",
+      "name": "Study Buddy Student",
+      "email": "student@test.com",
+      "password": "$2a$10$fmRZoSUBZcW55yiRIubuFu4To6XOt003ONZIjokFtHw8PkozeooqW",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Study%20Buddy%20Student",
+      "studyGoals": "Prepare for semester exams",
+      "dailyTargetHours": 2,
+      "studyStreak": 1,
+      "lastLoginDate": "2026-09-25T07:05:32.989Z"
+    }
+  ],
+  "refresh_tokens": [
+    {
+      "id": "muf241rpc4t2z",
+      "createdAt": "2026-09-24T04:53:40.981Z",
+      "updatedAt": "2026-09-24T04:53:40.981Z",
+      "userId": "muf241r9lwo79",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11ZjI0MXI5bHdvNzkiLCJpYXQiOjE3OTAyMjU2MjAsImV4cCI6MTc5MDgzMDQyMH0.MsV8obEWz7Wl46dI-wvrSZx4WG7upV7BufvgiC_d1uE",
+      "expiresAt": "2026-10-01T04:53:40.981Z"
+    },
+    {
+      "id": "muglu0mx9onxz",
+      "createdAt": "2026-09-25T06:53:31.449Z",
+      "updatedAt": "2026-09-25T06:53:31.449Z",
+      "userId": "muglu0lg4umje",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11Z2x1MGxnNHVtamUiLCJpYXQiOjE3OTAzMTkyMTEsImV4cCI6MTc5MDkyNDAxMX0.XBrNDVCXGpkmzyYLM81OiA_ioUSfyDv9lezN-6z95p0",
+      "expiresAt": "2026-10-02T06:53:31.448Z"
+    },
+    {
+      "id": "muglxghti3hkj",
+      "createdAt": "2026-09-25T06:56:11.969Z",
+      "updatedAt": "2026-09-25T06:56:11.969Z",
+      "userId": "muglu0lg4umje",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im11Z2x1MGxnNHVtamUiLCJpYXQiOjE3OTAzMTkzNzEsImV4cCI6MTc5MDkyNDE3MX0.liuKhc3uU8aOHoGBWjHL58t4LwDgEL-IE5N9Onyt7Eg",
+      "expiresAt": "2026-10-02T06:56:11.969Z"
+    }
+  ],
+  "documents": [],
+  "quizzes": [],
+  "flashcards": [],
+  "study_plans": []
+}
